@@ -4,6 +4,11 @@
 
 ### I am a passionate Software Developer and Consultant with over 20 years of professional experience, based in Germany. 
 
+[Experience & Skills](#experience--skills) 
+[Recent Projects](#projects)
+[Markdown - Link](#Contact)
+[Gehe zu Abschnitt 1](#abschnitt-1)
+
 Throughout my career, I've had the opportunity to work with a diverse array of languages, tools, and services. My passion for technology and problem-solving has driven me to continually adapt and evolve in the ever-changing landscape of software development.
 
 I often get referred by my customers, who appreciate my ability to understand and integrate new technologies, delivering solutions that not only meet but frequently exceed their project objectives.
@@ -13,7 +18,6 @@ As a CTO and Co-Founder of a startup, I have gained unique insights into the tec
 Additionally, during my time as a CTO and Co-Founder, I was involved in creating and obtaining a software patent for our startup. 
 
 ## Experience & Skills
-
 ### +20yrs of professional experience
 <div style="display: flex; flex-wrap: wrap">
     <a rel="noreferrer">
@@ -388,3 +392,6 @@ Throughout my career spanning over two decades, I've had the privilege of workin
     </a>
 </details>
 
+<a id="projects"><h2>Recent Projects</h2></a>
+
+# Abschnitt 1
