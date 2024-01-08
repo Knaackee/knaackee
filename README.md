@@ -4,8 +4,8 @@
 
 ### I am a passionate Software Developer and Consultant with over 20 years of professional experience, based in Germany. 
 
-[Experience & Skills](#experience--skills) 
-[Recent Projects](#projects)
+[Experience & Skills](#experience--skills) | 
+[Recent Projects](#projects) | 
 [Contact](#contact)
 
 Throughout my career, I've had the opportunity to work with a diverse array of languages, tools, and services. My passion for technology and problem-solving has driven me to continually adapt and evolve in the ever-changing landscape of software development.
@@ -393,4 +393,84 @@ Throughout my career spanning over two decades, I've had the privilege of workin
 
 ## Projects
 
+#### Fintech Startup (C# Backend and APIs, Microsoft SQL Database)
+> Development of backend solutions and APIs for a fintech startup, utilizing C# and Microsoft SQL Database.
+
+#### Automated Email Dispatch (Implementation of Automated Invoice Email Distribution, C#)
+> Implementation of an automated system for emailing invoices, developed in C#.
+
+#### Visa Policy Update (C#)
+> Implementation of new requirements for visa policy using C#.
+
+#### Website Relaunch (C#)
+> Redevelopment and modernization of a website using C#.
+
+#### Password Validation (C#)
+> Transition from plain text passwords to hashed and salted passwords, implemented in C#.
+
+#### Mailgun Integration (C#)
+> Implementation and documentation of Mailgun integration for email services.
+
+#### Consulting GraphQL
+> Advising a development team on GraphQL implementation and best practices.
+
+#### GraphQL Backend (NodeJS / TypeScript)
+> Development of a sample implementation for a GraphQL backend using NodeJS and TypeScript.
+
+#### NNTP Client (C#
+> Development of an NNTP client using C#.
+
+#### Plug-In System (C#)
+> Enhancement of a Windows client with a plug-in system, developed in C#.
+
+#### Automatic Updates for Windows Application (C#)
+> Implementation of an automatic update system for a Windows application.
+
+#### Automatic Update Feature for Electron App (NodeJS)
+> Development of a self-updating mechanism tailored for an Electron application, utilizing NodeJS.
+
+#### COVID Scanner App (React Native)
+> Creation of an app for scanning and displaying information from QR codes, developed with React Native.
+
+#### Marketing Website (React / TypeScript)
+> Development of a website for a mid-sized company, utilizing React and TypeScript.
+
+#### AI Chatbot (React / TypeScript)
+> Design and integration of an AI chatbot based on ChatGPT, implemented using React and TypeScript.
+
+#### UI/UX Design (Figma)
+> Creation and presentation of a user interface for a web application using Figma.
+
+#### GraphQL Backend (NodeJS / TypeScript)
+> Development of an API with integration to a PostgreSQL database, implemented using NodeJS and TypeScript.
+
+#### Chrome Extension (TypeScript)
+> Development of a Chrome extension with ChatGPT integration, implemented in TypeScript.
+
+#### Outlook Plugin (TypeScript)
+> Creation of a plugin for easier management of filters and folders in Outlook, developed in TypeScript.
+
+#### Desktop Client (NodeJS / Electron / TypeScript, C#)
+> Development of a cross-platform client for Windows, Mac, and Linux for processing and analyzing AAF files, using NodeJS, Electron, TypeScript, and C#.
+
+#### CI/CD Implementation (GitHub Actions)
+> Creation and implementation of a Continuous Integration and Continuous Delivery (CI/CD) process for a team with various projects, utilizing GitHub Actions.
+
+#### Progressive Web App (React / TypeScript)
+> Development of a Progressive Web App (installable, offline-ready) with features including authentication, email sending, and more, built using React and TypeScript.
+
 ## Contact
+
+I'm always open to new opportunities, interesting projects, and engaging discussions. Don't hesitate to connect or drop me a message. Let's collaborate and build amazing things together! 🚀
+
+<a href="https://linkedin.com/in/denisknaack" target="blank"><img
+    align="center"
+    src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn denisknaack"/>
+</a>
+
+<a href="https://stackoverflow.com/users/479659" target="blank"><img
+    align="center"
+    src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"
+    alt="Stackoverflow denisknaack"/>
+</a>
