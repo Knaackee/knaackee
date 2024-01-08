@@ -5,7 +5,7 @@
 ### I am a passionate Software Developer and Consultant with over 20 years of professional experience, based in Germany. 
 
 [Experience & Skills](#experience--skills) | 
-[Recent Projects](#projects) | 
+[Recent Projects](#recent-projects) | 
 [Contact](#contact)
 
 Throughout my career, I've had the opportunity to work with a diverse array of languages, tools, and services. My passion for technology and problem-solving has driven me to continually adapt and evolve in the ever-changing landscape of software development.
