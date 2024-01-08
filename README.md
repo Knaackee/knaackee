@@ -6,8 +6,7 @@
 
 [Experience & Skills](#experience--skills) 
 [Recent Projects](#projects)
-[Markdown - Link](#Contact)
-[Gehe zu Abschnitt 1](#abschnitt-1)
+[Contact](#contact)
 
 Throughout my career, I've had the opportunity to work with a diverse array of languages, tools, and services. My passion for technology and problem-solving has driven me to continually adapt and evolve in the ever-changing landscape of software development.
 
@@ -392,6 +391,6 @@ Throughout my career spanning over two decades, I've had the privilege of workin
     </a>
 </details>
 
-<a id="projects"><h2>Recent Projects</h2></a>
+## Projects
 
-# Abschnitt 1
+## Contact
