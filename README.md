@@ -391,7 +391,7 @@ Throughout my career spanning over two decades, I've had the privilege of workin
     </a>
 </details>
 
-## Projects
+## Projects (Excerpt)
 
 #### Fintech Startup (C# Backend and APIs, Microsoft SQL Database)
 > Development of backend solutions and APIs for a fintech startup, utilizing C# and Microsoft SQL Database.
