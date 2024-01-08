@@ -1,5 +1,5 @@
 <p align="center">
-<a href=""><img src="https://github.com/Knaackee/knaackee/blob/master/Frame%201000003597.png"/></a>>
+<a href=""><img src="https://github.com/Knaackee/knaackee/blob/master/header.png"/></a>>
 </p>
 
 I am a passionate Software Developer and Consultant with over 20 years of professional experience, based in Germany. 
