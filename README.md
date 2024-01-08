@@ -466,11 +466,13 @@ I'm always open to new opportunities, interesting projects, and engaging discuss
 <a href="https://linkedin.com/in/denisknaack" target="blank"><img
     align="center"
     src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="LinkedIn denisknaack"/>
-</a>
-
-<a href="https://stackoverflow.com/users/479659" target="blank"><img
+    alt="LinkedIn denisknaack"/></a><a href="https://twitter.com/knaackee" target="blank"><img
+    align="center"
+    src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white"
+    alt="Threads knaackee"/></a><a href="https://twitter.com/knaackee" target="blank"><img
+    align="center"
+    src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"
+    alt="Twitter/X knaackee"/></a><a href="https://stackoverflow.com/users/479659" target="blank"><img
     align="center"
     src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"
-    alt="Stackoverflow denisknaack"/>
-</a>
+    alt="Stackoverflow denisknaack"/></a>
