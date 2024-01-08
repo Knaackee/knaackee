@@ -400,7 +400,7 @@ Throughout my career spanning over two decades, I've had the privilege of workin
 > Implementation of an automated system for emailing invoices, developed in C#.
 
 #### Visa Policy Update (C#)
-> Implementation of new requirements for visa policy using C#.
+> Implementation of new requirements for visa payment processing using C#.
 
 #### Website Relaunch (C#)
 > Redevelopment and modernization of a website using C#.
@@ -409,7 +409,7 @@ Throughout my career spanning over two decades, I've had the privilege of workin
 > Transition from plain text passwords to hashed and salted passwords, implemented in C#.
 
 #### Mailgun Integration (C#)
-> Implementation and documentation of Mailgun integration for email services.
+> Implementation and documentation.
 
 #### Consulting GraphQL
 > Advising a development team on GraphQL implementation and best practices.
@@ -426,9 +426,6 @@ Throughout my career spanning over two decades, I've had the privilege of workin
 #### Automatic Updates for Windows Application (C#)
 > Implementation of an automatic update system for a Windows application.
 
-#### Automatic Update Feature for Electron App (NodeJS)
-> Development of a self-updating mechanism tailored for an Electron application, utilizing NodeJS.
-
 #### COVID Scanner App (React Native)
 > Creation of an app for scanning and displaying information from QR codes, developed with React Native.
 
@@ -440,6 +437,9 @@ Throughout my career spanning over two decades, I've had the privilege of workin
 
 #### UI/UX Design (Figma)
 > Creation and presentation of a user interface for a web application using Figma.
+
+#### Automatic Update Feature for Electron App (NodeJS)
+> Development of a self-updating mechanism tailored for an Electron application, utilizing NodeJS.
 
 #### GraphQL Backend (NodeJS / TypeScript)
 > Development of an API with integration to a PostgreSQL database, implemented using NodeJS and TypeScript.
