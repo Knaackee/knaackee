@@ -5,7 +5,7 @@
 ### Ich bin ein leidenschaftlicher Softwareentwickler und Berater mit über 20 Jahren Berufserfahrung, ansässig in Deutschland.
 
 [Erfahrung & Fähigkeiten](#erfahrung--fähigkeiten) | 
-[Projekte](#projekte) | 
+[Projekte](#projekte-auszug) | 
 [Kontakt](#kontakt) | 
 [⬇️ Download CV](https://raw.githubusercontent.com/knaackee/knaackee/master/cv_dknaack_de.pdf) | 
 [🌍 English](https://github.com/Knaackee)
@@ -405,7 +405,7 @@ Während meiner über zwei Jahrzehnte langen Karriere hatte ich die Möglichkeit
 
 
 
-## Projects (Excerpt)
+## Projekte (Auszug)
 
 #### Fintech Startup (C# Backend and APIs, Microsoft SQL Database)
 > Entwicklung von Backend-Lösungen und APIs für ein Fintech-Startup unter Verwendung von C# und einer Microsoft SQL-Datenbank.
