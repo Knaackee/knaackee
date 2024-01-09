@@ -344,6 +344,12 @@ Throughout my career spanning over two decades, I've had the privilege of workin
         alt=""
       />
     </a>
+    <a rel="noreferrer">
+      <img
+        src="https://img.shields.io/badge/Firebase-FFCB2D.svg?&style=for-the-badge&logo=firebase&logoColor=black"
+        alt=""
+      />
+    </a>
   </details>
   <details style="display: flex; flex-wrap: wrap">
     <summary><h4>DevOps</h4></summary>
