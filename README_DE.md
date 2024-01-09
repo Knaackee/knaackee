@@ -8,7 +8,7 @@
 [Projekte](#projekte-auszug) | 
 [Kontakt](#kontakt) | 
 [⬇️ Download CV](https://raw.githubusercontent.com/knaackee/knaackee/master/cv_dknaack_de.pdf) | 
-[🌍 English](https://github.com/Knaackee)
+[🌍 English](https://github.com/Knaackee/knaackee/blob/master/README.md)
 
 
 In meiner Karriere habe ich mit verschiedenen Programmiersprachen, Tools und Services gearbeitet. Meine Leidenschaft für Technologie motivierte mich, mich stets weiterzuentwickeln. Kunden schätzen meine Fähigkeit, neue Technologien zu integrieren und Lösungen zu bieten, die oft ihre Ziele übertreffen.
