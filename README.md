@@ -304,7 +304,7 @@ Throughout my career spanning over two decades, I've had the privilege of workin
     <summary><h4>Databases</h4></summary>
     <a rel="noreferrer">
       <img
-        src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"
+        src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"
         alt=""
       />
     </a>
@@ -314,13 +314,7 @@ Throughout my career spanning over two decades, I've had the privilege of workin
         alt=""
       />
     </a>
-    <a rel="noreferrer">
-      <img
-        src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"
-        alt=""
-      />
-    </a>
-    <a rel="noreferrer">
+      <a rel="noreferrer">
       <img
         src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"
         alt=""
@@ -328,13 +322,19 @@ Throughout my career spanning over two decades, I've had the privilege of workin
     </a>
     <a rel="noreferrer">
       <img
+        src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"
+        alt=""
+      />
+    </a>
+          <a rel="noreferrer">
+      <img
         src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"
         alt=""
       />
     </a>
     <a rel="noreferrer">
       <img
-        src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"
+        src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"
         alt=""
       />
     </a>
