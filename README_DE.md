@@ -7,6 +7,7 @@
 [Erfahrung & Fähigkeiten](#erfahrung--fähigkeiten) | 
 [Projekte](#projekte) | 
 [Kontakt](#kontakt) | 
+[⬇️ Download CV](https://raw.githubusercontent.com/knaackee/knaackee/master/cv_dknaack_de.pdf) | 
 [🌍 English](https://github.com/Knaackee)
 
 
