@@ -418,7 +418,7 @@ Während meiner über zwei Jahrzehnte langen Karriere hatte ich die Möglichkeit
 #### Website Relaunch (C#)
 > Neuentwicklung und Modernisierung einer Website unter Verwendung von C#.
 
-#### Passwortvalidierung
+#### Passwortvalidierung (C#)
 > Übergang von Klartextpasswörtern zu Hash & Salt (C#)
 
 #### Mailgun-Integration (C#)
