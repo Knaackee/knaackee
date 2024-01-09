@@ -407,70 +407,70 @@ Während meiner über zwei Jahrzehnte langen Karriere hatte ich die Möglichkeit
 ## Projects (Excerpt)
 
 #### Fintech Startup (C# Backend and APIs, Microsoft SQL Database)
-> Development of backend solutions and APIs for a fintech startup, utilizing C# and Microsoft SQL Database.
+> Entwicklung von Backend-Lösungen und APIs für ein Fintech-Startup unter Verwendung von C# und einer Microsoft SQL-Datenbank.
 
-#### Automated Email Dispatch (Implementation of Automated Invoice Email Distribution, C#)
-> Implementation of an automated system for emailing invoices, developed in C#.
+#### Automatischer E-Mail-Versand (Implementierung der automatischen Verteilung von Rechnungen per E-Mail)
+> Implementierung eines automatischen Systems zum Versenden von Rechnungen per E-Mail, entwickelt in C#.
 
 #### Visa Policy Update (C#)
-> Implementation of new requirements for visa payment processing using C#.
+> Implementierung neuer Anforderungen für die Visa-Zahlungsabwicklung mit C#.
 
 #### Website Relaunch (C#)
-> Redevelopment and modernization of a website using C#.
+> Neuentwicklung und Modernisierung einer Website unter Verwendung von C#.
 
-#### Password Validation (C#)
-> Transition from plain text passwords to hashed and salted passwords, implemented in C#.
+#### Passwortvalidierung
+> Übergang von Klartextpasswörtern zu Hash & Salt (C#)
 
-#### Mailgun Integration (C#)
-> Implementation and documentation.
+#### Mailgun-Integration (C#)
+> Implementierung und Dokumentation.
 
-#### Consulting GraphQL
-> Advising a development team on GraphQL implementation and best practices.
+#### Beratung zu GraphQL
+> Beratung eines Entwicklungsteams zur Implementierung von GraphQL und Best Practices.
 
-#### GraphQL Backend (NodeJS / TypeScript)
-> Development of a sample implementation for a GraphQL backend using NodeJS and TypeScript.
+#### GraphQL-Backend (NodeJS / TypeScript)
+> Entwicklung einer Beispielimplementierung für ein GraphQL-Backend unter Verwendung von NodeJS und TypeScript.
 
 #### NNTP Client (C#
-> Development of an NNTP client using C#.
+> Entwicklung eines NNTP-Clients unter Verwendung von C#.
 
 #### Plug-In System (C#)
-> Enhancement of a Windows client with a plug-in system, developed in C#.
+> Verbesserung eines Windows-Clients mit einem Plug-in-System, entwickelt in C#.
 
-#### Automatic Updates for Windows Application (C#)
-> Implementation of an automatic update system for a Windows application.
+#### Automatische Updates für Windows-Anwendung (C#)
+> Implementierung eines automatischen Update-Systems für eine Windows-Anwendung.
 
 #### COVID Scanner App (React Native)
-> Creation of an app for scanning and displaying information from QR codes, developed with React Native.
+> Erstellung einer App zum Scannen und Anzeigen von Informationen aus QR-Codes, entwickelt mit React Native.
 
 #### Marketing Website (React / TypeScript)
-> Development of a website for a mid-sized company, utilizing React and TypeScript.
+> Entwicklung einer Website für ein mittelständisches Unternehmen unter Verwendung von React und TypeScript.
 
 #### AI Chatbot (React / TypeScript)
-> Design and integration of an AI chatbot based on ChatGPT, implemented using React and TypeScript.
+> Design und Integration eines KI-Chatbots basierend auf ChatGPT, implementiert mit React und TypeScript.
 
 #### UI/UX Design (Figma)
-> Creation and presentation of a user interface for a web application using Figma.
+> Erstellung und Präsentation einer Benutzeroberfläche für eine Webanwendung unter Verwendung von Figma.
 
-#### Automatic Update Feature for Electron App (NodeJS)
-> Development of a self-updating mechanism tailored for an Electron application, utilizing NodeJS.
+#### Automatisches Update-Feature für eine Electron-App (NodeJS)
+> Entwicklung eines selbstaktualisierenden Mechanismus, maßgeschneidert für eine Electron-Anwendung, unter Verwendung von NodeJS.
 
 #### GraphQL Backend (NodeJS / TypeScript)
-> Development of an API with integration to a PostgreSQL database, implemented using NodeJS and TypeScript.
+> Entwicklung einer API mit Integration einer PostgreSQL-Datenbank, umgesetzt mit NodeJS und TypeScript.
 
 #### Chrome Extension (TypeScript)
-> Development of a Chrome extension with ChatGPT integration, implemented in TypeScript.
+> Entwicklung einer Chrome-Erweiterung mit ChatGPT-Integration, umgesetzt in TypeScript.
 
 #### Outlook Plugin (TypeScript)
-> Creation of a plugin for easier management of filters and folders in Outlook, developed in TypeScript.
+> Erstellung eines Plugins zur vereinfachten Verwaltung von Filtern und Ordnern in Outlook, entwickelt in TypeScript.
 
 #### Desktop Client (NodeJS / Electron / TypeScript, C#)
-> Development of a cross-platform client for Windows, Mac, and Linux for processing and analyzing AAF files, using NodeJS, Electron, TypeScript, and C#.
+> Entwicklung eines plattformübergreifenden Clients für Windows, Mac und Linux zur Verarbeitung und Analyse von AAF-Dateien, unter Verwendung von NodeJS, Electron, TypeScript und C#.
 
-#### CI/CD Implementation (GitHub Actions)
-> Creation and implementation of a Continuous Integration and Continuous Delivery (CI/CD) process for a team with various projects, utilizing GitHub Actions.
+#### CI/CD Implementierung (GitHub Actions)
+> Erstellung und Implementierung eines Continuous Integration and Continuous Delivery (CI/CD)-Prozesses für ein Team mit verschiedenen Projekten unter Verwendung von GitHub Actions.
 
 #### Progressive Web App (React / TypeScript)
-> Development of a Progressive Web App (installable, offline-ready) with features including authentication, email sending, and more, built using React and TypeScript.
+> Entwicklung einer Progressive Web App (installierbar, offline-fähig) mit Funktionen wie Authentifizierung, Caching und mehr, erstellt mit React und TypeScript.
 
 ## Kontakt
 
