@@ -12,7 +12,7 @@ Throughout my career, I've had the opportunity to work with a diverse array of l
 
 I often get referred by my customers, who appreciate my ability to understand and integrate new technologies, delivering solutions that not only meet but frequently exceed their project objectives.
 
-As a CTO and Co-Founder of a startup, I have gained unique insights into the technological and business aspects of running a company. This experience has been invaluable in offering consulting services across a broad range of technologies, where I advise teams and help shape strategies that align with business goals.
+As a CTO and Co-Founder of a startup, I have gained unique insights into the business aspects of running a company. This experience has been invaluable in offering consulting services across a broad range of technologies, where I advise teams and help shape strategies that align with business goals.
 
 Additionally, during my time as a CTO and Co-Founder, I was involved in creating and obtaining a software patent for our startup. 
 
