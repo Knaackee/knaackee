@@ -11,7 +11,7 @@
 [🌍 English](https://github.com/Knaackee/knaackee/blob/master/README.md)
 
 
-In meiner Karriere habe ich mit verschiedenen Programmiersprachen, Tools und Services gearbeitet. Meine Leidenschaft für Technologie motivierte mich, mich stets weiterzuentwickeln. Kunden schätzen meine Fähigkeit, neue Technologien zu integrieren und Lösungen zu bieten, die oft ihre Ziele übertreffen.
+In meiner Karriere habe ich mit verschiedenen Programmiersprachen, Tools und Services gearbeitet. Meine Leidenschaft für Technologie motiviert mich, mich stets weiterzuentwickeln. Kunden schätzen meine Fähigkeit, neue Technologien zu integrieren und Lösungen zu bieten, die oft ihre Ziele übertreffen.
 
 Als CTO und Mitbegründer eines Startups erlangte ich wertvolle Einblicke in das Geschäftsleben. Diese Erfahrungen nutze ich, um Teams zu beraten und Strategien zu entwickeln, die Geschäftszielen entsprechen. In dieser Rolle war ich auch an der Erstellung und Erlangung eines Softwarepatents beteiligt.
 
