@@ -7,7 +7,7 @@
 [Experience & Skills](#experience--skills) | 
 [Recent Projects](#projects-excerpt) | 
 [Contact](#contact) | 
-[⬇️ Download CV](https://raw.githubusercontent.com/knaackee/knaackee/branch/cv_dknaack.pdf) | 
+[⬇️ Download CV](https://raw.githubusercontent.com/knaackee/knaackee/master/cv_dknaack.pdf) | 
 [🌍 Deutsch](https://github.com/Knaackee/knaackee/blob/master/README_DE.md)
 
 Throughout my career, I've had the opportunity to work with a diverse array of languages, tools, and services. My passion for technology and problem-solving has driven me to continually adapt and evolve in the ever-changing landscape of software development.
