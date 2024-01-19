@@ -2,7 +2,7 @@
 <a href=""><img src="https://github.com/Knaackee/knaackee/blob/master/header.png"/></a>
 </p>
 
-### I am a passionate Software Developer and Consultant with over 20 years of professional experience, based in Germany. 
+### I am a passionate Software Developer, CTO, and Consultant with over 20 years of professional experience, based in Germany. 
 
 [Experience & Skills](#experience--skills) | 
 [Recent Projects](#projects-excerpt) | 
