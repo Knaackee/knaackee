@@ -2,7 +2,7 @@
 <a href=""><img src="https://github.com/Knaackee/knaackee/blob/master/header.png"/></a>
 </p>
 
-### Ich bin ein leidenschaftlicher Softwareentwickler und Berater mit über 20 Jahren Berufserfahrung, ansässig in Deutschland.
+### Ich bin ein leidenschaftlicher Softwareentwickler, CTO und Berater mit über 20 Jahren Berufserfahrung, ansässig in Deutschland.
 
 [Erfahrung & Fähigkeiten](#erfahrung--fähigkeiten) | 
 [Projekte](#projekte-auszug) | 
