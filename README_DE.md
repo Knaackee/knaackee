@@ -11,7 +11,9 @@
 [🌍 English](https://github.com/Knaackee/knaackee/blob/master/README.md)
 
 
-In meiner Karriere habe ich mit verschiedenen Programmiersprachen, Tools und Services gearbeitet. Meine Leidenschaft für Technologie motiviert mich, mich stets weiterzuentwickeln. Kunden schätzen meine Fähigkeit, neue Technologien zu integrieren und Lösungen zu bieten, die oft ihre Ziele übertreffen.
+In meiner über 20-jährigen beruflichen Laufbahn habe ich mit verschiedenen Programmiersprachen, Tools und Services gearbeitet. Meine Leidenschaft für Technologie motiviert mich, mich stets weiterzuentwickeln. Kunden schätzen meine Fähigkeit, neue Technologien zu integrieren und Lösungen zu bieten, die oft ihre Ziele übertreffen.
+
+Auch nach langjähriger Erfahrung in diesem Bereich und unzähligen Projekten hat meine Begeisterung für die Softwareentwicklung nicht nachgelassen; sie ist so lebendig wie am ersten Tag.
 
 ## Erfahrung & Fähigkeiten
 
