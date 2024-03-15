@@ -2,7 +2,7 @@
 <a href=""><img src="https://github.com/Knaackee/knaackee/blob/master/header.png"/></a>
 </p>
 
-### I am a passionate Software Developer, CTO, and Consultant with over 20 years of professional experience, based in Germany. 
+### I am a passionate Software Developer and Consultant with over 20 years of professional experience, based in Germany. 
 
 [Experience & Skills](#experience--skills) | 
 [Recent Projects](#projects-excerpt) | 
@@ -13,10 +13,6 @@
 Throughout my career, I've had the opportunity to work with a diverse array of languages, tools, and services. My passion for technology and problem-solving has driven me to continually adapt and evolve in the ever-changing landscape of software development.
 
 I often get referred by my customers, who appreciate my ability to understand and integrate new technologies, delivering solutions that not only meet but frequently exceed their project objectives.
-
-As a CTO and Co-Founder of a startup, I have gained unique insights into the business aspects of running a company. This experience has been invaluable in offering consulting services across a broad range of technologies, where I advise teams and help shape strategies that align with business goals.
-
-Additionally, during my time as a CTO and Co-Founder, I was involved in creating and obtaining a software patent for our startup. 
 
 ## Experience & Skills
 ### +20yrs of professional experience
