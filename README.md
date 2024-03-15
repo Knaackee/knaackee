@@ -10,9 +10,9 @@
 [⬇️ Download CV](https://raw.githubusercontent.com/knaackee/knaackee/master/cv_dknaack.pdf) | 
 [🌍 Deutsch](https://github.com/Knaackee/knaackee/blob/master/README_DE.md)
 
-Throughout my career, I've had the opportunity to work with a diverse array of languages, tools, and services. My passion for technology and problem-solving has driven me to continually adapt and evolve in the ever-changing landscape of software development.
+Throughout my career spanning over 20 years, I have worked with various programming languages, tools, and services. My passion for technology motivates me to continually evolve. Clients appreciate my ability to integrate new technologies and provide solutions that often exceed their goals.
 
-I often get referred by my customers, who appreciate my ability to understand and integrate new technologies, delivering solutions that not only meet but frequently exceed their project objectives.
+Even after many years of experience in this field and countless projects, my enthusiasm for software development has not diminished; it remains as vibrant as on the first day.
 
 ## Experience & Skills
 ### +20yrs of professional experience
